@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "func start"
+  },
+  "dependencies": {
+    "bun": "^1.0.29",
+    "hono": "^4.0.7"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.7"
+  }
+}
