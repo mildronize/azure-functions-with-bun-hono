@@ -2,6 +2,10 @@
 
 Example for running Azure Functions on Hono & Bun.js
 
+## Features
+- Run TypeScript without compile
+- Auto Reload on save
+
 ```bash
 func start
 ```
