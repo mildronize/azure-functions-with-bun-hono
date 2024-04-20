@@ -24,3 +24,6 @@ https://github.com/Azure-Samples/functions-custom-handlers
 
 
 https://github.com/Azure/azure-functions-host/wiki/host.json-(v2)
+
+## Sample:
+- https://github.com/Azure-Samples/functions-custom-handlers
